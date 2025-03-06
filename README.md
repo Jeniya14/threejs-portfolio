@@ -2,6 +2,8 @@
 
 A visually stunning and interactive portfolio showcasing creativity and technical skills using cutting-edge web technologies.
 
+<img src="thumbnail.png" alt="Image" width="600"/>
+
 ---
 
 ## 🚀 Features
