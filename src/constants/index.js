@@ -214,7 +214,7 @@ export const navLinks = [
       id: 1,
       name: 'Thrive Tech',
       pos: 'Junior Tool Admin',
-      duration: '2024 - Present',
+      duration: '2024',
       title: "As a Junior Jira Tool Admin, I configured workflows, screens, and permissions, managed user accounts. I enhanced functionality with plugins, custom reports, and automation, while monitoring issue tracking and implementing advanced JSM features like SLAsand customer portals. Regular updates ensured smooth operations.",
       icon: '/assets/Thrive.png',
       animation: 'salute',
